@@ -15,9 +15,8 @@ author:
   name: Alex Melnychuck
   email: amelnychuck@me.com
   url: alexmelnychuck.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7983d3a-168f-4686-a750-d19b094f770b.jpg
-name: Alex Melnychuck
+logo: null
+name: The Radikal Group
 collections:
   - index:
       path: /
