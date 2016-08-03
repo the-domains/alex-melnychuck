@@ -1,8 +1,24 @@
-typography_spectrum: 0.18928816099651158
+author:
+  name: Alex Melnychuck
+  email: amelnychuck@me.com
+  url: alexmelnychuck.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7983d3a-168f-4686-a750-d19b094f770b.jpg
 color:
-  brandStrength: 0.9361956370994449
-  lightness: 0.5170924412086606
   saturation: 0.38744225515984
+  brandStrength: 0.9361956370994449
   rhythmicContrast: 0.6117809312418103
   brandColors:
     - '#F2385A'
@@ -10,11 +26,7 @@ color:
     - '#E9F1DF'
     - '#4AD9D9'
     - '#36B1BF'
-layout_spectrum: 0.44571919017471373
-author:
-  name: Alex Melnychuck
-  email: amelnychuck@me.com
-  url: alexmelnychuck.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7983d3a-168f-4686-a750-d19b094f770b.jpg
+  lightness: 0.5170924412086606
+typography_spectrum: 0.1892881609965116
+layout_spectrum: 0
 name: Alex Melnychuck
